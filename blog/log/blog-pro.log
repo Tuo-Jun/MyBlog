@@ -1,0 +1,5 @@
+2019-10-17 23:09:31.363  INFO 34492 --- [restartedMain] com.tuojun.blog.BlogApplication          : Starting BlogApplication on DESKTOP-EPVTRS4 with PID 34492 (C:\Study\IDEA_Project\blog\target\classes started by TuoJun in C:\Study\IDEA_Project\blog)
+2019-10-17 23:09:31.369  INFO 34492 --- [restartedMain] com.tuojun.blog.BlogApplication          : The following profiles are active: pro
+2019-10-17 23:09:34.244  WARN 34492 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-17 23:09:34.479  WARN 34492 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-17 23:09:34.663  INFO 34492 --- [restartedMain] com.tuojun.blog.BlogApplication          : Started BlogApplication in 4.098 seconds (JVM running for 5.509)
